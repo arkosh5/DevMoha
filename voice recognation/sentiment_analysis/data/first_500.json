@@ -1,0 +1,1754 @@
+[
+    {
+        "text": "Hello everybody, and welcome to another YouTube video.",
+        "start": 310,
+        "end": 3054,
+        "sentiment": "POSITIVE",
+        "confidence": 0.8711152076721191,
+        "speaker": null
+    },
+    {
+        "text": "So in today's video, I'm going to be talking to you about how I made my 1st $500 freelance coding on a website called Fiverr.",
+        "start": 3152,
+        "end": 11398,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.8187038898468018,
+        "speaker": null
+    },
+    {
+        "text": "Now, I'm making this video because a few months ago, I made a video called how how to Make Money From Coding.",
+        "start": 11494,
+        "end": 16654,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.7362274527549744,
+        "speaker": null
+    },
+    {
+        "text": "In that video, I discussed five ways that you can make money from coding without being an expert, without having industry experience, and without having to work a full time job.",
+        "start": 16762,
+        "end": 26694,
+        "sentiment": "POSITIVE",
+        "confidence": 0.6227883696556091,
+        "speaker": null
+    },
+    {
+        "text": "Now, one of those methods that I talked about was freelancing.",
+        "start": 26792,
+        "end": 30094,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.8983635306358337,
+        "speaker": null
+    },
+    {
+        "text": "And a lot of you guys had questions.",
+        "start": 30142,
+        "end": 31590,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.7181921601295471,
+        "speaker": null
+    },
+    {
+        "text": "You were saying things like, oh, I'm not good enough to freelance.",
+        "start": 31700,
+        "end": 33958,
+        "sentiment": "NEGATIVE",
+        "confidence": 0.7877203226089478,
+        "speaker": null
+    },
+    {
+        "text": "Oh, there's too many people freelancing.",
+        "start": 33994,
+        "end": 35638,
+        "sentiment": "NEGATIVE",
+        "confidence": 0.6888883709907532,
+        "speaker": null
+    },
+    {
+        "text": "Oh, I don't have enough skills that are marketable, whatever it may be.",
+        "start": 35734,
+        "end": 38538,
+        "sentiment": "NEGATIVE",
+        "confidence": 0.719178318977356,
+        "speaker": null
+    },
+    {
+        "text": "You came up with millions of excuses.",
+        "start": 38564,
+        "end": 40558,
+        "sentiment": "NEGATIVE",
+        "confidence": 0.786846399307251,
+        "speaker": null
+    },
+    {
+        "text": "Now, I'm here to show you today that it doesn't matter what you are good at, if you are good at any specific coding technology or tool or package or module, whatever it is, you can market that skill and you can get people to pay you to do it.",
+        "start": 40654,
+        "end": 53574,
+        "sentiment": "POSITIVE",
+        "confidence": 0.7017044425010681,
+        "speaker": null
+    },
+    {
+        "text": "I'm going to show you exactly how as I go through how I made my 1st $500 on this website.",
+        "start": 53612,
+        "end": 59202,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.874690592288971,
+        "speaker": null
+    },
+    {
+        "text": "So, first of all, Fiverr, for any of you that don't know, is simply a freelancing website.",
+        "start": 59336,
+        "end": 63498,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.774210512638092,
+        "speaker": null
+    },
+    {
+        "text": "You can go on there, you can pay people to do stuff for you.",
+        "start": 63584,
+        "end": 66030,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.8085805177688599,
+        "speaker": null
+    },
+    {
+        "text": "And of course, you can kind of market yourself, create little ads, they're called gigs and say, I will do this for you.",
+        "start": 66080,
+        "end": 72702,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.7194093465805054,
+        "speaker": null
+    },
+    {
+        "text": "And then people can pay you to do that.",
+        "start": 72716,
+        "end": 74634,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.5724449157714844,
+        "speaker": null
+    },
+    {
+        "text": "Now, here I filled out eight orders on this website.",
+        "start": 74732,
+        "end": 77646,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.6813387274742126,
+        "speaker": null
+    },
+    {
+        "text": "So I completed eight orders.",
+        "start": 77708,
+        "end": 79018,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.7644200325012207,
+        "speaker": null
+    },
+    {
+        "text": "You can see, you can add up all the totals here.",
+        "start": 79054,
+        "end": 81258,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.8281168937683105,
+        "speaker": null
+    },
+    {
+        "text": "They add up to something around like $600.",
+        "start": 81404,
+        "end": 84186,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.9014395475387573,
+        "speaker": null
+    },
+    {
+        "text": "And I think after 500 took its cut, I ended up making something like $500 or a little bit over that.",
+        "start": 84368,
+        "end": 90882,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.8950615525245667,
+        "speaker": null
+    },
+    {
+        "text": "But anyways, I'm going to show you exactly what I did for these orders, how I got these orders, and how you can do the same thing.",
+        "start": 90956,
+        "end": 97242,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.8317000865936279,
+        "speaker": null
+    },
+    {
+        "text": "So let's dive in.",
+        "start": 97316,
+        "end": 98214,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.6078134179115295,
+        "speaker": null
+    },
+    {
+        "text": "I'll start by showing you the advertisement I set up on this website and talk about why I kind of formulated it the way that I did.",
+        "start": 98252,
+        "end": 104660,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.88105309009552,
+        "speaker": null
+    },
+    {
+        "text": "All right.",
+        "start": 112950,
+        "end": 113338,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.4896698594093323,
+        "speaker": null
+    },
+    {
+        "text": "So I've got my gig here.",
+        "start": 113364,
+        "end": 114898,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.7503701448440552,
+        "speaker": null
+    },
+    {
+        "text": "That's what they're called on Fiverr.",
+        "start": 114984,
+        "end": 116318,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.850456714630127,
+        "speaker": null
+    },
+    {
+        "text": "When you set up these little ads or little descriptions of what you'll do for people, and pretty much you write, I will, and then whatever it is you're going to do.",
+        "start": 116354,
+        "end": 123514,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.8117104768753052,
+        "speaker": null
+    },
+    {
+        "text": "So I said, I will create a game in Python with pygame.",
+        "start": 123552,
+        "end": 127742,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.645469605922699,
+        "speaker": null
+    },
+    {
+        "text": "So immediately, I'm not making a full stack website.",
+        "start": 127826,
+        "end": 130042,
+        "sentiment": "NEGATIVE",
+        "confidence": 0.6611723899841309,
+        "speaker": null
+    },
+    {
+        "text": "I'm not doing anything super complicated.",
+        "start": 130116,
+        "end": 132110,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.7070977687835693,
+        "speaker": null
+    },
+    {
+        "text": "All I was doing for this specific freelancing job was making really crappy 2D games in Python, using the module pie game.",
+        "start": 132230,
+        "end": 141202,
+        "sentiment": "NEGATIVE",
+        "confidence": 0.8540493249893188,
+        "speaker": null
+    },
+    {
+        "text": "Now, the reason I decided to do this was because when I was 18, I was in my first year of computer science.",
+        "start": 141276,
+        "end": 146618,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.7648193836212158,
+        "speaker": null
+    },
+    {
+        "text": "The only thing that I was really good at doing was working with this module called Pie Game.",
+        "start": 146714,
+        "end": 150922,
+        "sentiment": "POSITIVE",
+        "confidence": 0.9187827706336975,
+        "speaker": null
+    },
+    {
+        "text": "I pretty much only knew Python.",
+        "start": 150996,
+        "end": 152558,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.6038593053817749,
+        "speaker": null
+    },
+    {
+        "text": "I knew a few other programming languages, but not well enough to sell my skills in them.",
+        "start": 152594,
+        "end": 156346,
+        "sentiment": "NEGATIVE",
+        "confidence": 0.5466418266296387,
+        "speaker": null
+    },
+    {
+        "text": "And I was good with this module called Pi Game which lets you make little crappy 2D games.",
+        "start": 156408,
+        "end": 161570,
+        "sentiment": "POSITIVE",
+        "confidence": 0.7418270111083984,
+        "speaker": null
+    },
+    {
+        "text": "Now the reason I did this was because in high school I was actually forced to use this module for a class.",
+        "start": 161630,
+        "end": 166750,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.7655818462371826,
+        "speaker": null
+    },
+    {
+        "text": "So I learned how to do this and then I kind of fell in love with just making these little crappy 2D games.",
+        "start": 166860,
+        "end": 171350,
+        "sentiment": "POSITIVE",
+        "confidence": 0.6483301520347595,
+        "speaker": null
+    },
+    {
+        "text": "Well, I thought there might be some market for this.",
+        "start": 171410,
+        "end": 173506,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.7722548842430115,
+        "speaker": null
+    },
+    {
+        "text": "Let me put it up and let me see if I can make a few bucks a week coding out these little games.",
+        "start": 173568,
+        "end": 178082,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.7845065593719482,
+        "speaker": null
+    },
+    {
+        "text": "I might already have the game done.",
+        "start": 178106,
+        "end": 179554,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.6345057487487793,
+        "speaker": null
+    },
+    {
+        "text": "I could literally modify it and sell it to people.",
+        "start": 179592,
+        "end": 181786,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.7739169597625732,
+        "speaker": null
+    },
+    {
+        "text": "Anyways, I'll give you an idea of what I did.",
+        "start": 181908,
+        "end": 183610,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.8873518109321594,
+        "speaker": null
+    },
+    {
+        "text": "So here for my advertisement, I just submitted some kind of images of the stuff that I created.",
+        "start": 183660,
+        "end": 188282,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.8916372656822205,
+        "speaker": null
+    },
+    {
+        "text": "You can see this is a video of a really basic platformer game in Python and Pygame.",
+        "start": 188366,
+        "end": 193370,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.6680364012718201,
+        "speaker": null
+    },
+    {
+        "text": "And I was not making anything complicated, anything crazy.",
+        "start": 193430,
+        "end": 195838,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.6671544909477234,
+        "speaker": null
+    },
+    {
+        "text": "Again, super simple.",
+        "start": 195924,
+        "end": 197626,
+        "sentiment": "POSITIVE",
+        "confidence": 0.7427905797958374,
+        "speaker": null
+    },
+    {
+        "text": "Sorry.",
+        "start": 197688,
+        "end": 197950,
+        "sentiment": "NEGATIVE",
+        "confidence": 0.5092127919197083,
+        "speaker": null
+    },
+    {
+        "text": "2d games.",
+        "start": 198000,
+        "end": 198842,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.7183464765548706,
+        "speaker": null
+    },
+    {
+        "text": "This was an example of a mini golf game that I made.",
+        "start": 198926,
+        "end": 201598,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.7972373366355896,
+        "speaker": null
+    },
+    {
+        "text": "This was like a running game, like side scrolling kind of thing.",
+        "start": 201744,
+        "end": 205282,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.7736920714378357,
+        "speaker": null
+    },
+    {
+        "text": "And then I had tetris, right?",
+        "start": 205416,
+        "end": 206698,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.7886878848075867,
+        "speaker": null
+    },
+    {
+        "text": "So basic stuff like that.",
+        "start": 206724,
+        "end": 207958,
+        "sentiment": "NEGATIVE",
+        "confidence": 0.6153781414031982,
+        "speaker": null
+    },
+    {
+        "text": "But this was enough to get people's attention.",
+        "start": 207984,
+        "end": 210074,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.5012176036834717,
+        "speaker": null
+    },
+    {
+        "text": "Then what I had was three basic packages.",
+        "start": 210242,
+        "end": 212606,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.8437117338180542,
+        "speaker": null
+    },
+    {
+        "text": "So I had the small Python graphical game that I would make for you.",
+        "start": 212678,
+        "end": 216058,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.7651316523551941,
+        "speaker": null
+    },
+    {
+        "text": "I have the medium Python graphical game and then I had the large Python graphical game.",
+        "start": 216144,
+        "end": 220750,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.7867313623428345,
+        "speaker": null
+    },
+    {
+        "text": "Now it kind of says what the differences between them, the delivery time, the revisions, all of that source code, comments, all that kind of stuff.",
+        "start": 220860,
+        "end": 228214,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.8109068274497986,
+        "speaker": null
+    },
+    {
+        "text": "Anyways, about the gig, I'll just kind of read to you what I had here.",
+        "start": 228312,
+        "end": 231478,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.8876129388809204,
+        "speaker": null
+    },
+    {
+        "text": "So need a Python game completed for school, definitely not marketing to finish people's projects.",
+        "start": 231504,
+        "end": 237098,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.4887158274650574,
+        "speaker": null
+    },
+    {
+        "text": "I will create a smooth good looking to the game for you with Python and PY Game.",
+        "start": 237254,
+        "end": 241414,
+        "sentiment": "POSITIVE",
+        "confidence": 0.8721086382865906,
+        "speaker": null
+    },
+    {
+        "text": "I have a ton of experience with Python and Pi Game and make games all the time.",
+        "start": 241452,
+        "end": 244642,
+        "sentiment": "POSITIVE",
+        "confidence": 0.7669073939323425,
+        "speaker": null
+    },
+    {
+        "text": "And then I kind of listed some stuff here of what I would do.",
+        "start": 244716,
+        "end": 247162,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.8876186609268188,
+        "speaker": null
+    },
+    {
+        "text": "Notice I also said I can adjust the price.",
+        "start": 247236,
+        "end": 249814,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.8691681027412415,
+        "speaker": null
+    },
+    {
+        "text": "And almost every single person messaged me for a game ended up paying less than I was charging in these packages.",
+        "start": 249912,
+        "end": 255470,
+        "sentiment": "NEGATIVE",
+        "confidence": 0.5976114273071289,
+        "speaker": null
+    },
+    {
+        "text": "So they would try to kind of bargain me down and usually I would just give in and say sure, it'll do a few for $30 or whatever it may be.",
+        "start": 255530,
+        "end": 261454,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.8157323598861694,
+        "speaker": null
+    },
+    {
+        "text": "You can see this is my seller rating or kind of profile on fiverr.",
+        "start": 261552,
+        "end": 265358,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.9080671668052673,
+        "speaker": null
+    },
+    {
+        "text": "I'm from Canada.",
+        "start": 265394,
+        "end": 266162,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.8110142350196838,
+        "speaker": null
+    },
+    {
+        "text": "I was a member since November 2018.",
+        "start": 266186,
+        "end": 268766,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.9099782109260559,
+        "speaker": null
+    },
+    {
+        "text": "The last liberated was a year ago.",
+        "start": 268898,
+        "end": 270454,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.8141798973083496,
+        "speaker": null
+    },
+    {
+        "text": "I don't freelance anymore and my average response time was an hour out of the description.",
+        "start": 270492,
+        "end": 274538,
+        "sentiment": "NEGATIVE",
+        "confidence": 0.7124780416488647,
+        "speaker": null
+    },
+    {
+        "text": "I'll leave this in the link in the description.",
+        "start": 274634,
+        "end": 276482,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.8676276206970215,
+        "speaker": null
+    },
+    {
+        "text": "So you guys can check it out if you want to read through everything.",
+        "start": 276506,
+        "end": 278518,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.7831451892852783,
+        "speaker": null
+    },
+    {
+        "text": "And then here are the packages, right?",
+        "start": 278604,
+        "end": 280162,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.7514873743057251,
+        "speaker": null
+    },
+    {
+        "text": "So delivery time, you could pay more to have it delivered in less time.",
+        "start": 280236,
+        "end": 283402,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.597111165523529,
+        "speaker": null
+    },
+    {
+        "text": "And all this stuff is like default on Fiverr.",
+        "start": 283476,
+        "end": 285866,
+        "sentiment": "NEGATIVE",
+        "confidence": 0.5111086964607239,
+        "speaker": null
+    },
+    {
+        "text": "Super simple.",
+        "start": 285938,
+        "end": 286510,
+        "sentiment": "POSITIVE",
+        "confidence": 0.7660958766937256,
+        "speaker": null
+    },
+    {
+        "text": "I didn't have to code any of this out.",
+        "start": 286560,
+        "end": 288058,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.7039174437522888,
+        "speaker": null
+    },
+    {
+        "text": "Like, you just fill in all this information and it makes this page for you.",
+        "start": 288084,
+        "end": 292450,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.7873528599739075,
+        "speaker": null
+    },
+    {
+        "text": "Anyways, I have eight reviews from all the people that I did the projects for or whatever it was that they were asking for.",
+        "start": 292620,
+        "end": 299062,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.8803027868270874,
+        "speaker": null
+    },
+    {
+        "text": "And while I was five Star rated and obviously that's helpful, people look for high ratings on sites like these.",
+        "start": 299196,
+        "end": 304750,
+        "sentiment": "POSITIVE",
+        "confidence": 0.6968083381652832,
+        "speaker": null
+    },
+    {
+        "text": "So anyways, that was the ad.",
+        "start": 304860,
+        "end": 306274,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.6374680399894714,
+        "speaker": null
+    },
+    {
+        "text": "This is what I set up.",
+        "start": 306372,
+        "end": 307426,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.6672311425209045,
+        "speaker": null
+    },
+    {
+        "text": "And literally this got like hundreds of views a month because I was one of the only people on Fiverr that was actually making stuff with Pie Game.",
+        "start": 307488,
+        "end": 315682,
+        "sentiment": "POSITIVE",
+        "confidence": 0.7181456685066223,
+        "speaker": null
+    },
+    {
+        "text": "Now, I'm sure after this video, this probably isn't going to be the best thing that you guys could do to make money.",
+        "start": 315756,
+        "end": 320182,
+        "sentiment": "NEGATIVE",
+        "confidence": 0.8974942564964294,
+        "speaker": null
+    },
+    {
+        "text": "But my point is that if you pick something extremely specific and something that has a small market, but a market where you're the only person supplying something in it, then you immediately are going to be seen, right?",
+        "start": 320256,
+        "end": 332878,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.7298530340194702,
+        "speaker": null
+    },
+    {
+        "text": "People are going to find your stuff because there's no one else that's doing what you're doing.",
+        "start": 332904,
+        "end": 336538,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.6462558507919312,
+        "speaker": null
+    },
+    {
+        "text": "Even today.",
+        "start": 336684,
+        "end": 337486,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.7327734231948853,
+        "speaker": null
+    },
+    {
+        "text": "We could probably look this up and check, but I don't think there's many people that are making little crappy 2D games in Python with the module Pi game.",
+        "start": 337608,
+        "end": 344254,
+        "sentiment": "NEGATIVE",
+        "confidence": 0.6614145040512085,
+        "speaker": null
+    },
+    {
+        "text": "And well, it turns out that people need that done.",
+        "start": 344292,
+        "end": 346654,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.5788691639900208,
+        "speaker": null
+    },
+    {
+        "text": "So anyways, that was the ad.",
+        "start": 346752,
+        "end": 348466,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.6374680399894714,
+        "speaker": null
+    },
+    {
+        "text": "This is what I was doing for people.",
+        "start": 348528,
+        "end": 350014,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.5468398332595825,
+        "speaker": null
+    },
+    {
+        "text": "Let me now show you what I actually made because you're going to be surprised by how simple these games are and how much I got paid to actually create them.",
+        "start": 350112,
+        "end": 357034,
+        "sentiment": "POSITIVE",
+        "confidence": 0.5042110681533813,
+        "speaker": null
+    },
+    {
+        "text": "All right?",
+        "start": 357072,
+        "end": 357262,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.7200906276702881,
+        "speaker": null
+    },
+    {
+        "text": "So just as a refresher, these are the orders right here, I will try to specify how much I got paid for the projects that I show you.",
+        "start": 357276,
+        "end": 363958,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.8874341249465942,
+        "speaker": null
+    },
+    {
+        "text": "I'm not going to show you all of them, but I'll just show you a few examples to give you an idea of kind of what people are looking for and how simple these projects really were.",
+        "start": 363984,
+        "end": 371854,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.6022063493728638,
+        "speaker": null
+    },
+    {
+        "text": "So anyways, all of them are completed.",
+        "start": 371952,
+        "end": 373490,
+        "sentiment": "POSITIVE",
+        "confidence": 0.513463020324707,
+        "speaker": null
+    },
+    {
+        "text": "All of them are rated five stars.",
+        "start": 373550,
+        "end": 374762,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.6759786009788513,
+        "speaker": null
+    },
+    {
+        "text": "And again, the most expensive one I did was $200.",
+        "start": 374786,
+        "end": 377374,
+        "sentiment": "NEGATIVE",
+        "confidence": 0.5358961820602417,
+        "speaker": null
+    },
+    {
+        "text": "I'll show you that one, but even that one was only like 800 lines of code.",
+        "start": 377472,
+        "end": 381058,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.7000728845596313,
+        "speaker": null
+    },
+    {
+        "text": "Probably took me like four or 5 hours to program it.",
+        "start": 381144,
+        "end": 383878,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.63651442527771,
+        "speaker": null
+    },
+    {
+        "text": "So we'll close this up.",
+        "start": 383964,
+        "end": 384934,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.7891701459884644,
+        "speaker": null
+    },
+    {
+        "text": "Let me head into Vs code and then I'll be right back.",
+        "start": 384972,
+        "end": 387382,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.821722686290741,
+        "speaker": null
+    },
+    {
+        "text": "All right, so I'm here in Vs code.",
+        "start": 387456,
+        "end": 388750,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.8168306350708008,
+        "speaker": null
+    },
+    {
+        "text": "I'm just going to show you a few examples of the projects that I made and how much I paid for each of these.",
+        "start": 388800,
+        "end": 393322,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.8966004252433777,
+        "speaker": null
+    },
+    {
+        "text": "So the first one that I'm actually going to show you is called UI, or that's like what the folder is called that I submitted.",
+        "start": 393456,
+        "end": 398834,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.8923649787902832,
+        "speaker": null
+    },
+    {
+        "text": "I just downloaded all of the deliverables that I actually gave to the people so I could show you in this video.",
+        "start": 398882,
+        "end": 404506,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.6539610624313354,
+        "speaker": null
+    },
+    {
+        "text": "But this is a really basic user interface in Pi Game.",
+        "start": 404628,
+        "end": 408058,
+        "sentiment": "NEGATIVE",
+        "confidence": 0.6611053943634033,
+        "speaker": null
+    },
+    {
+        "text": "And I remember that what this guy wanted for this specific project was he needed something that he could run on his Raspberry Pi that he would be able to use to grab a user's phone number.",
+        "start": 408144,
+        "end": 417478,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.7759793996810913,
+        "speaker": null
+    },
+    {
+        "text": "So we just wanted some nice looking UI that had some buttons and an input field, and that's literally all this guy wanted.",
+        "start": 417504,
+        "end": 423190,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.43720898032188416,
+        "speaker": null
+    },
+    {
+        "text": "So let me go into UI and let's run this code.",
+        "start": 423240,
+        "end": 427438,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.7778409123420715,
+        "speaker": null
+    },
+    {
+        "text": "All right, so we run this.",
+        "start": 427584,
+        "end": 428578,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.7368330359458923,
+        "speaker": null
+    },
+    {
+        "text": "You can see this is what I created.",
+        "start": 428604,
+        "end": 430034,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.7536314129829407,
+        "speaker": null
+    },
+    {
+        "text": "This guy paid me $75 to do this.",
+        "start": 430082,
+        "end": 432406,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.4974726140499115,
+        "speaker": null
+    },
+    {
+        "text": "And all you need to do is literally type in your phone number, whatever it may be.",
+        "start": 432468,
+        "end": 436882,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.8255622982978821,
+        "speaker": null
+    },
+    {
+        "text": "You can obviously type more digits than is a valid phone number.",
+        "start": 436956,
+        "end": 440098,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.5240796804428101,
+        "speaker": null
+    },
+    {
+        "text": "He didn't ask for that, so I didn't implement it.",
+        "start": 440124,
+        "end": 442330,
+        "sentiment": "NEGATIVE",
+        "confidence": 0.5693802237510681,
+        "speaker": null
+    },
+    {
+        "text": "You can clear digits like that.",
+        "start": 442500,
+        "end": 444250,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.734821081161499,
+        "speaker": null
+    },
+    {
+        "text": "You can add the pound sign, the star sign, and when you press okay, boom, it prints out the phone number right there.",
+        "start": 444300,
+        "end": 449866,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.7527881860733032,
+        "speaker": null
+    },
+    {
+        "text": "That was literally all he wanted.",
+        "start": 449928,
+        "end": 451090,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.5458201766014099,
+        "speaker": null
+    },
+    {
+        "text": "I don't know what he was using it for, but I remember clearly it was like something to do with his Raspberry Pi.",
+        "start": 451140,
+        "end": 455618,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.8422847986221313,
+        "speaker": null
+    },
+    {
+        "text": "Anyways, $75 for that.",
+        "start": 455714,
+        "end": 457750,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.7226728200912476,
+        "speaker": null
+    },
+    {
+        "text": "Looking through the code, it's literally, what, 180 lines?",
+        "start": 457860,
+        "end": 461054,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.61576908826828,
+        "speaker": null
+    },
+    {
+        "text": "It's really basic.",
+        "start": 461102,
+        "end": 461990,
+        "sentiment": "NEGATIVE",
+        "confidence": 0.8079097270965576,
+        "speaker": null
+    },
+    {
+        "text": "I didn't use anything in advance.",
+        "start": 462050,
+        "end": 463298,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.6873025298118591,
+        "speaker": null
+    },
+    {
+        "text": "This took me under an hour to make.",
+        "start": 463394,
+        "end": 465154,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.5908606648445129,
+        "speaker": null
+    },
+    {
+        "text": "I remember it because I was, like, pumped that he was going to pay me so much for literally such a simple project.",
+        "start": 465192,
+        "end": 469798,
+        "sentiment": "POSITIVE",
+        "confidence": 0.7463064193725586,
+        "speaker": null
+    },
+    {
+        "text": "Anyways, closing that one.",
+        "start": 469944,
+        "end": 471754,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.6229851245880127,
+        "speaker": null
+    },
+    {
+        "text": "Let's move on to another one.",
+        "start": 471792,
+        "end": 472822,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.5048785209655762,
+        "speaker": null
+    },
+    {
+        "text": "Let's go to Tic TAC toe.",
+        "start": 472836,
+        "end": 474350,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.6367407441139221,
+        "speaker": null
+    },
+    {
+        "text": "I think this one is pretty straightforward.",
+        "start": 474470,
+        "end": 475970,
+        "sentiment": "POSITIVE",
+        "confidence": 0.8113428950309753,
+        "speaker": null
+    },
+    {
+        "text": "This one wasn't even Pi game.",
+        "start": 476030,
+        "end": 477334,
+        "sentiment": "NEGATIVE",
+        "confidence": 0.5128901600837708,
+        "speaker": null
+    },
+    {
+        "text": "So this guy saw that I've made, like, 2D games in Pi Game, and he still messaged me and said, hey, can you make me TicTacToe?",
+        "start": 477372,
+        "end": 483542,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.7183000445365906,
+        "speaker": null
+    },
+    {
+        "text": "It needs to be like two player or something like that.",
+        "start": 483626,
+        "end": 486742,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.8409062027931213,
+        "speaker": null
+    },
+    {
+        "text": "He had a bunch of requirements.",
+        "start": 486816,
+        "end": 488042,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.7230458855628967,
+        "speaker": null
+    },
+    {
+        "text": "Anyways, I made him tic TAC toe.",
+        "start": 488126,
+        "end": 490334,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.7775262594223022,
+        "speaker": null
+    },
+    {
+        "text": "This isn't even in pie game.",
+        "start": 490382,
+        "end": 491710,
+        "sentiment": "NEGATIVE",
+        "confidence": 0.5682795643806458,
+        "speaker": null
+    },
+    {
+        "text": "It's like 300 something lines.",
+        "start": 491760,
+        "end": 493598,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.7703204154968262,
+        "speaker": null
+    },
+    {
+        "text": "Probably took me a few hours to do, and I'll look for the price after, but I think this is probably, again, like $75 or something like that.",
+        "start": 493694,
+        "end": 500050,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.597574770450592,
+        "speaker": null
+    },
+    {
+        "text": "But this is actually running in the console because it's not pie game.",
+        "start": 500160,
+        "end": 503518,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.6651065349578857,
+        "speaker": null
+    },
+    {
+        "text": "So let's zoom in here.",
+        "start": 503544,
+        "end": 504670,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.8006370067596436,
+        "speaker": null
+    },
+    {
+        "text": "It says type S for single player and M for multiplayer, and V to view the top high scores.",
+        "start": 504780,
+        "end": 509546,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.8429396152496338,
+        "speaker": null
+    },
+    {
+        "text": "So let's look at V.",
+        "start": 509558,
+        "end": 510790,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.8192527890205383,
+        "speaker": null
+    },
+    {
+        "text": "No high scores to display.",
+        "start": 510960,
+        "end": 512198,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.6404269933700562,
+        "speaker": null
+    },
+    {
+        "text": "Okay, do you want to play again?",
+        "start": 512234,
+        "end": 513466,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.8459242582321167,
+        "speaker": null
+    },
+    {
+        "text": "Yes.",
+        "start": 513528,
+        "end": 514222,
+        "sentiment": "POSITIVE",
+        "confidence": 0.46103888750076294,
+        "speaker": null
+    },
+    {
+        "text": "Type S for single player and for multiplayer.",
+        "start": 514416,
+        "end": 516722,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.8834685683250427,
+        "speaker": null
+    },
+    {
+        "text": "Let's go.",
+        "start": 516806,
+        "end": 517234,
+        "sentiment": "POSITIVE",
+        "confidence": 0.5875559449195862,
+        "speaker": null
+    },
+    {
+        "text": "S enter the player's name.",
+        "start": 517272,
+        "end": 518782,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.7513052225112915,
+        "speaker": null
+    },
+    {
+        "text": "Tim.",
+        "start": 518916,
+        "end": 519430,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.6292242407798767,
+        "speaker": null
+    },
+    {
+        "text": "You can see we have this little board.",
+        "start": 519540,
+        "end": 521482,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.8181526064872742,
+        "speaker": null
+    },
+    {
+        "text": "Let's put a one in there.",
+        "start": 521676,
+        "end": 522898,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.756303071975708,
+        "speaker": null
+    },
+    {
+        "text": "And there we go.",
+        "start": 522924,
+        "end": 523438,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.5355266332626343,
+        "speaker": null
+    },
+    {
+        "text": "Now we have an X.",
+        "start": 523464,
+        "end": 524266,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.7814235091209412,
+        "speaker": null
+    },
+    {
+        "text": "The computer makes its move.",
+        "start": 524328,
+        "end": 525658,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.7828220725059509,
+        "speaker": null
+    },
+    {
+        "text": "There's an O there.",
+        "start": 525744,
+        "end": 526534,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.7236129641532898,
+        "speaker": null
+    },
+    {
+        "text": "Okay, let's put in a two.",
+        "start": 526572,
+        "end": 528826,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.7560551166534424,
+        "speaker": null
+    },
+    {
+        "text": "Or let's take the center square maybe.",
+        "start": 528888,
+        "end": 530506,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.8631588816642761,
+        "speaker": null
+    },
+    {
+        "text": "So we'll do go with the five there.",
+        "start": 530568,
+        "end": 532294,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.8324652910232544,
+        "speaker": null
+    },
+    {
+        "text": "He actually blocks us.",
+        "start": 532332,
+        "end": 533338,
+        "sentiment": "NEGATIVE",
+        "confidence": 0.591742753982544,
+        "speaker": null
+    },
+    {
+        "text": "So now we're going to have to block him.",
+        "start": 533364,
+        "end": 534886,
+        "sentiment": "NEGATIVE",
+        "confidence": 0.7865025401115417,
+        "speaker": null
+    },
+    {
+        "text": "That is in square eight.",
+        "start": 534948,
+        "end": 536662,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.7890155911445618,
+        "speaker": null
+    },
+    {
+        "text": "Okay.",
+        "start": 536796,
+        "end": 537130,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.584351658821106,
+        "speaker": null
+    },
+    {
+        "text": "Decides to go up there to block us and we can keep playing and so on.",
+        "start": 537180,
+        "end": 540802,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.7734680771827698,
+        "speaker": null
+    },
+    {
+        "text": "You get the idea.",
+        "start": 540876,
+        "end": 541606,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.598790168762207,
+        "speaker": null
+    },
+    {
+        "text": "It's just basic tic TAC toe.",
+        "start": 541668,
+        "end": 543434,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.53564453125,
+        "speaker": null
+    },
+    {
+        "text": "This works with single player and multiplayer.",
+        "start": 543482,
+        "end": 545558,
+        "sentiment": "POSITIVE",
+        "confidence": 0.508842945098877,
+        "speaker": null
+    },
+    {
+        "text": "And while that's what I mean, now I'm going to say that I got paid $75 for that.",
+        "start": 545594,
+        "end": 549982,
+        "sentiment": "NEGATIVE",
+        "confidence": 0.6033016443252563,
+        "speaker": null
+    },
+    {
+        "text": "Although let me look on the thing because I don't remember.",
+        "start": 549996,
+        "end": 552898,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.7292624115943909,
+        "speaker": null
+    },
+    {
+        "text": "Yes, I think it was $75.",
+        "start": 553044,
+        "end": 554494,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.8248753547668457,
+        "speaker": null
+    },
+    {
+        "text": "I'm pretty sure it was this guy right here who paid me for it.",
+        "start": 554532,
+        "end": 557518,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.6957610845565796,
+        "speaker": null
+    },
+    {
+        "text": "Anyways, that's that project.",
+        "start": 557604,
+        "end": 558982,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.7107280492782593,
+        "speaker": null
+    },
+    {
+        "text": "Let me show you another one.",
+        "start": 559056,
+        "end": 560206,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.6673399209976196,
+        "speaker": null
+    },
+    {
+        "text": "So this one was actually the most advanced one that I did.",
+        "start": 560268,
+        "end": 562918,
+        "sentiment": "POSITIVE",
+        "confidence": 0.9261764287948608,
+        "speaker": null
+    },
+    {
+        "text": "This one definitely took the most amount of time, probably like four or 5 hours.",
+        "start": 562944,
+        "end": 566470,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.6465263962745667,
+        "speaker": null
+    },
+    {
+        "text": "And this was what was this?",
+        "start": 566640,
+        "end": 568846,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.7927524447441101,
+        "speaker": null
+    },
+    {
+        "text": "This was tetris.",
+        "start": 568848,
+        "end": 570170,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.7796818017959595,
+        "speaker": null
+    },
+    {
+        "text": "So this one I got paid $200 to do.",
+        "start": 570290,
+        "end": 572770,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.5974863767623901,
+        "speaker": null
+    },
+    {
+        "text": "I'm just going to CD into the folder here so I can do it.",
+        "start": 572820,
+        "end": 576298,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.7180318236351013,
+        "speaker": null
+    },
+    {
+        "text": "And let's run this bat file.",
+        "start": 576444,
+        "end": 579010,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.835211992263794,
+        "speaker": null
+    },
+    {
+        "text": "Run bat.",
+        "start": 579690,
+        "end": 581194,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.8111828565597534,
+        "speaker": null
+    },
+    {
+        "text": "Okay, let's just have a look at this.",
+        "start": 581352,
+        "end": 583282,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.8323594927787781,
+        "speaker": null
+    },
+    {
+        "text": "So this is tetris.",
+        "start": 583296,
+        "end": 584210,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.7703484892845154,
+        "speaker": null
+    },
+    {
+        "text": "You can play single player, two player, single player versus AI.",
+        "start": 584270,
+        "end": 587930,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.82646644115448,
+        "speaker": null
+    },
+    {
+        "text": "I'll show you the AI.",
+        "start": 587990,
+        "end": 588950,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.8117745518684387,
+        "speaker": null
+    },
+    {
+        "text": "Even though the AI was not really an AI, it was just like somewhat random.",
+        "start": 589010,
+        "end": 592622,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.707843005657196,
+        "speaker": null
+    },
+    {
+        "text": "So let's go three.",
+        "start": 592766,
+        "end": 593940,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.5956128835678101,
+        "speaker": null
+    },
+    {
+        "text": "And you can see that we just have tetris.",
+        "start": 594270,
+        "end": 596294,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.7493899464607239,
+        "speaker": null
+    },
+    {
+        "text": "I'm on the left hand side as the player.",
+        "start": 596402,
+        "end": 598370,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.8995883464813232,
+        "speaker": null
+    },
+    {
+        "text": "And then player two is actually the computer and you can see it's kind of automatically moving.",
+        "start": 598430,
+        "end": 602074,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.8323386907577515,
+        "speaker": null
+    },
+    {
+        "text": "I'm not doing any movements with my other hand.",
+        "start": 602112,
+        "end": 604402,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.6824726462364197,
+        "speaker": null
+    },
+    {
+        "text": "But anyways, this is the idea.",
+        "start": 604536,
+        "end": 605686,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.7718461751937866,
+        "speaker": null
+    },
+    {
+        "text": "This is just basic tetris.",
+        "start": 605748,
+        "end": 606938,
+        "sentiment": "NEGATIVE",
+        "confidence": 0.5953066945075989,
+        "speaker": null
+    },
+    {
+        "text": "I'm just going to intentionally lose so I can show you the other version.",
+        "start": 606974,
+        "end": 610166,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.5251796841621399,
+        "speaker": null
+    },
+    {
+        "text": "But this I remember clearly not taking me more than a day to finish and getting paid $200 to do that.",
+        "start": 610298,
+        "end": 615778,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.48284488916397095,
+        "speaker": null
+    },
+    {
+        "text": "So not bad whatsoever.",
+        "start": 615804,
+        "end": 617318,
+        "sentiment": "POSITIVE",
+        "confidence": 0.8714512586593628,
+        "speaker": null
+    },
+    {
+        "text": "And this was definitely like the cleanest project that I did.",
+        "start": 617474,
+        "end": 620398,
+        "sentiment": "POSITIVE",
+        "confidence": 0.9760145545005798,
+        "speaker": null
+    },
+    {
+        "text": "It worked the best, but obviously I got paid the most amount for it.",
+        "start": 620424,
+        "end": 623338,
+        "sentiment": "POSITIVE",
+        "confidence": 0.9408562779426575,
+        "speaker": null
+    },
+    {
+        "text": "So anyways, the point of this video was just to show you that you can make money freelancing, to give you kind of an idea of how to do that, to give you some concrete steps or points.",
+        "start": 623424,
+        "end": 633226,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.6710360050201416,
+        "speaker": null
+    },
+    {
+        "text": "The first thing you want to do is you need to pick something that you're going to do that's super specific, that's pretty easy for you to do, that you're decent at and that not many people are doing, right?",
+        "start": 633348,
+        "end": 642982,
+        "sentiment": "POSITIVE",
+        "confidence": 0.669208288192749,
+        "speaker": null
+    },
+    {
+        "text": "If you're not an expert freelancer.",
+        "start": 642996,
+        "end": 644822,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.5530809164047241,
+        "speaker": null
+    },
+    {
+        "text": "If you can't build out full stack websites.",
+        "start": 644846,
+        "end": 647006,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.5211254954338074,
+        "speaker": null
+    },
+    {
+        "text": "You need to make yourself attractive in a different way.",
+        "start": 647078,
+        "end": 649570,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.49645787477493286,
+        "speaker": null
+    },
+    {
+        "text": "That you are cheap.",
+        "start": 649620,
+        "end": 650522,
+        "sentiment": "NEGATIVE",
+        "confidence": 0.4874434769153595,
+        "speaker": null
+    },
+    {
+        "text": "That you work well with people.",
+        "start": 650606,
+        "end": 652258,
+        "sentiment": "POSITIVE",
+        "confidence": 0.6370008587837219,
+        "speaker": null
+    },
+    {
+        "text": "You have a high rating and you're doing something that not many other people are even willing to do on the freelancing site.",
+        "start": 652284,
+        "end": 658090,
+        "sentiment": "POSITIVE",
+        "confidence": 0.7457916736602783,
+        "speaker": null
+    },
+    {
+        "text": "Like creating crappy 2D games in Python with the module called Pie Games.",
+        "start": 658200,
+        "end": 663602,
+        "sentiment": "NEGATIVE",
+        "confidence": 0.8056480884552002,
+        "speaker": null
+    },
+    {
+        "text": "If you guys have any questions please do leave them down below.",
+        "start": 663626,
+        "end": 665974,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.8729029893875122,
+        "speaker": null
+    },
+    {
+        "text": "I will leave a link to this gig if you want to take a look at it for yourself.",
+        "start": 666012,
+        "end": 670006,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.822539746761322,
+        "speaker": null
+    },
+    {
+        "text": "But I hope this video was helpful.",
+        "start": 670128,
+        "end": 671510,
+        "sentiment": "POSITIVE",
+        "confidence": 0.8999696373939514,
+        "speaker": null
+    },
+    {
+        "text": "I hope maybe it gave you guys some motivation to start trying to freelance.",
+        "start": 671570,
+        "end": 674894,
+        "sentiment": "POSITIVE",
+        "confidence": 0.8246312737464905,
+        "speaker": null
+    },
+    {
+        "text": "I will tell you that this stuff does not happen overnight.",
+        "start": 675002,
+        "end": 678038,
+        "sentiment": "NEGATIVE",
+        "confidence": 0.5160727500915527,
+        "speaker": null
+    },
+    {
+        "text": "Sometimes it takes weeks or months for someone to reach out to you to get a project.",
+        "start": 678134,
+        "end": 682234,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.6797768473625183,
+        "speaker": null
+    },
+    {
+        "text": "But if you're just looking to make some quick side money, there's no harm in putting up a little advertisement like this, see if it gets any traction.",
+        "start": 682332,
+        "end": 688922,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.7343592047691345,
+        "speaker": null
+    },
+    {
+        "text": "If it does, being able to make a quick $50 or like me, your 1st $500 freelancing.",
+        "start": 689006,
+        "end": 694262,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.5895561575889587,
+        "speaker": null
+    },
+    {
+        "text": "So I hope this was helpful.",
+        "start": 694346,
+        "end": 695450,
+        "sentiment": "POSITIVE",
+        "confidence": 0.9494681358337402,
+        "speaker": null
+    },
+    {
+        "text": "If it was, makes you leave a like subscribe to the channel down below and I will see you guys in another YouTube video.",
+        "start": 695510,
+        "end": 701280,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.5931100845336914,
+        "speaker": null
+    },
+    {
+        "text": "Bye.",
+        "start": 708730,
+        "end": 709050,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.5137447118759155,
+        "speaker": null
+    }
+]
